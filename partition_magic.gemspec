@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "A small Array partition library"
   spec.description = "A small Array partition library"
-  # spec.homepage = "https://github.com/codephilosopher/partition_magic"
+  spec.homepage = "https://github.com/codephilosopher/partition_magic"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
