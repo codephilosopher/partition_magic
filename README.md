@@ -1,6 +1,6 @@
 # PartitionMagic
 
- To experiment with that code, run `bin/console` for an interactive prompt.
+ Welcome to PartitionMagic gem. This Library will help you to partition an array of inetegers to odd and even arrays.
 
 ## Install
 gem install partition_magic
