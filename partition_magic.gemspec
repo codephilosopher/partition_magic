@@ -9,7 +9,8 @@ Gem::Specification.new do |spec|
   spec.email = ["pradeek.k@gmail.com"]
 
   spec.summary = "A small Array partition library"
-  spec.description = "A small Array partition library"
+  spec.description = "A small Array partition library (DO NOT 
+USE IN PRODUCTION ENVIRONMENT, THIS IS ONLY FOR EDUCATIONAL PURPOSE)"
   spec.homepage = "https://github.com/codephilosopher/partition_magic"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
